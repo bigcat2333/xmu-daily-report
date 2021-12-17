@@ -1,16 +1,16 @@
 {
   "config": [
     {
-      "username": "请在这里输入您的学号，保留引号",
-      "password": "请在这里输入您的统一身份认证密码，保留引号",
-      "password_vpn": "请在这里输入您的WiFi/VPN密码，保留引号",
-      "email": "请在这里输入您的邮箱地址，保留引号"
+      "username": "30920210156957",
+      "password": "Wxy980808.",
+      "password_vpn": "wxy980808",
+      "email": "wangxy0808@163.com"
     },
     {
-      "username": "请在这里输入您的学号，保留引号",
-      "password": "请在这里输入您的统一身份认证密码，保留引号",
-      "password_vpn": "请在这里输入您的WiFi/VPN密码，保留引号",
-      "email": "请在这里输入您的邮箱地址，保留引号"
+      "username": "23320210156964",
+      "password": "19950309Wang!",
+      "password_vpn": "19950309Wang!",
+      "email": "wangyizheAva@163.com"
     }
   ]
 }
